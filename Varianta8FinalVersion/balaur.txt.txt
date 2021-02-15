@@ -1,0 +1,27 @@
+Balaur nr: 1
+Numele balaurului : 4
+Coeficientul de inteligenta al capetului: 0 este 8
+Coeficientul de inteligenta al capetului: 1 este 5
+Coeficientul de inteligenta al capetului: 2 este 6
+Coeficientul de inteligenta al capetului: 3 este 9
+Nr total de capete: 4
+Varsta : 12
+Greutatea : 6.0
+Balaur nr: 2
+Numele balaurului : 4
+Coeficientul de inteligenta al capetului: 0 este 8
+Coeficientul de inteligenta al capetului: 1 este 5
+Coeficientul de inteligenta al capetului: 2 este 6
+Coeficientul de inteligenta al capetului: 3 este 9
+Nr total de capete: 4
+Varsta : 12
+Greutatea : 6.0
+Balaur nr: 3
+Numele balaurului : 4
+Coeficientul de inteligenta al capetului: 0 este 8
+Coeficientul de inteligenta al capetului: 1 este 5
+Coeficientul de inteligenta al capetului: 2 este 6
+Coeficientul de inteligenta al capetului: 3 este 9
+Nr total de capete: 4
+Varsta : 12
+Greutatea : 6.0

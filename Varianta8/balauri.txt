@@ -1,8 +1,0 @@
-Balaur{nr=5, arrayList=[1], balauri=5}
-Balaur{nr=0, arrayList=[], balauri=0}
-Capete ale primului balaur6
-IQ al primul balaur95
-Nr de balaur al primul3
-Capete ale doilea balaur:6
-IQ al doilea110
-Nr de balaur al doilea6
