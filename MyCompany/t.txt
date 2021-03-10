@@ -1,0 +1,18 @@
+Datele despre compania
+Anul cand a deschis compania2025
+Anul cand a deschis compania100000000
+Datele despre Department Testing
+15000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este automation
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este automation
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El  este performance
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este manual
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este manual
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este automation
+-------------------------------------------------------------------------------------
+Datele despre department Java
+13000.0Expereenta1.5com.company.DepartmentJava@531d72caEl este programator
+13000.0Expereenta1.5com.company.DepartmentJava@22d8cfe0El este programator
+13000.0Expereenta1.5com.company.DepartmentJava@579bb367El  este programator
+13000.0Expereenta1.5com.company.DepartmentJava@1de0aca6El este programator
+28000.0Expereenta1.5com.company.DepartmentJava@255316f2El este programator
+13000.0Expereenta1.5com.company.DepartmentJava@41906a77El este programator

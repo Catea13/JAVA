@@ -1,0 +1,15 @@
+Datele despre Department Testing
+15000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este automation
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este automation
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El  este performance
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este manual
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este manual
+13000.0Expereenta1.5DepartmentTesting{countManualTester=250, countAutomationTester=250, countPerformanceTester=250, tester='null'}El este automation
+-------------------------------------------------------------------------------------
+Datele despre department Java
+13000.0Expereenta1.5com.company.DepartmentJava@4b85612cEl este programator
+13000.0Expereenta1.5com.company.DepartmentJava@277050dcEl este programator
+13000.0Expereenta1.5com.company.DepartmentJava@5c29bfdEl  este programator
+13000.0Expereenta1.5com.company.DepartmentJava@7aec35aEl este programator
+13000.0Expereenta1.5com.company.DepartmentJava@67424e82El este programator
+13000.0Expereenta1.5com.company.DepartmentJava@42110406El este programator
